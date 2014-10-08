@@ -1,5 +1,3 @@
-ShortestRoute-CodeIQ
-====================
 
 実行方法
 ruby ShortestRoute.rb
